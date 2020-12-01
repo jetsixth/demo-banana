@@ -1,2 +1,3 @@
 print('coffee')
-print('กาแฟ')ห
+print('กาแฟ')
+print('tea')
